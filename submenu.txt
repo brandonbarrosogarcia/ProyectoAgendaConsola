@@ -1,0 +1,10 @@
+
+|*|============-[CRUD]-==========|*|
+   1) Crear un contacto.
+   2) Mostrar todos los contactos
+   3) Buscar un contacto por nombre, apellido, DNI
+   4) Ordenar los contacto por Apellido
+   5) Borrar por posición
+
+   6) Volver a la Agenda
+|*|================================|*|

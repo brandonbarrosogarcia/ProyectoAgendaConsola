@@ -1,0 +1,9 @@
+
+|*|============-[AGENDA]-==========|*|
+     1) Serializar 
+     2) Deserializar
+     3) CRUD
+     4) Mostrar por consola el fichero del menú.
+
+     5) Guardar y Salir
+|*|================================|*|
